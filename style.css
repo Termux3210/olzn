@@ -1,0 +1,19 @@
+.image 
+{
+    display: grid;
+    grid-template-columns: max-content max-content max-content;
+    align-items: center;
+    justify-content: space-around;
+}
+   
+.features-block span 
+{
+     display: grid;
+     justify-items: center;
+}
+   
+.features-block span img 
+{
+     width: auto;
+     height: auto;
+}
